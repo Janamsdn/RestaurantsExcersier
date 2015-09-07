@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In Restaurants</string>
+    <string name="title_activity_maps">EatNowtTest</string>
+    <string name="restlist_justeat_postcode">BT2 8LN</string>
+    <string name="restlist_button_postcode_update">Find Restaurants</string>
+    <string name="hint">Postcode</string>
+    <string name="gps_location">Use Current Location</string>
+    <string name="sort_asc">Sort Ascending</string>
+    <string name="sort_desc">Sort Descending</string>
+    <string name="restaurant_list_item_rating_count">(%1$d)</string>
+    <string name="restaurant_list_item_name">name</string>
+    <string name="restaurant_list_item_cuisine">cuisine</string>
+    <string name="restaurant_list_item_address">address</string>
+</resources>

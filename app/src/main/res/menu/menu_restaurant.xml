@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RestaurantListActivity">
+    <item
+        android:id="@+id/gps_location"
+        android:icon="@drawable/use_gps_location"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/gps_location" />
+    <item
+        android:id="@+id/sort_asc"
+        android:icon="@drawable/ascending"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/sort_asc" />
+
+    <item
+        android:id="@+id/sort_desc"
+        android:icon="@drawable/descending"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/sort_desc" />
+
+
+
+</menu>
